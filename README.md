@@ -2,6 +2,8 @@
 
 Game **Quoridor** (Mirko Marchesi, Gigamic) cho 2 người, chơi ngay trên trình duyệt: đưa quân về phía bên kia bàn, dùng tường để chặn đường đối thủ.
 
+Chơi online: https://tranviethoang99.github.io/quoridor/
+
 ## Chế độ chơi
 - **Chơi với máy**: nhập tên, bấm *Chơi với máy*.
 - **Online 1 đấu 1**: bấm *Tạo phòng*, gửi mã hoặc link cho bạn bè; bạn bè nhập mã và bấm *Vào phòng*.
